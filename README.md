@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Akhil Krishna
+# Hi there! 👋 I'm Akhil Krishna
 
 ## 🚀 About Me
 
@@ -80,21 +80,36 @@ I'm a **B.Tech in Computer Science and Engineering** graduate. I am an **AI&ML e
 - Exploring advanced topics in **Machine Learning** and **Data Science**.
 - Building innovative and impactful solutions using **AI** and **ML**.
 
+---
+
+## 🔭 What I'm Currently Working On
+
+- **GuiD Project**: A comprehensive platform aimed at revolutionizing online learning and coding education.
+
+---
+
+## 🌱 What I'm Currently Learning
+
+- Diving deeper into **Deep Learning** through active research and project work.
+
+---
+
+## 💬 Ask Me About
+
+- **Machine Learning**: From basic concepts to implementing complex ML pipelines.
+- **Web Development**: Crafting full-stack applications with modern tools.
+- **Django**: Backend development and optimization techniques.
+
+---
+
+## 📫 How to Reach Me
+
+Feel free to drop me an email at [akhilmavannoor@gmail.com](mailto:akhilmavannoor@gmail.com) or connect via [LinkedIn](https://www.linkedin.com/in/akhil-krishna-686166229/).
+
+---
+
+## ⚡ Fun Fact
+
+- I tried to implement my own way of single page application back in 2021 when i dont even know about React Js💻
+
 Feel free to explore my repositories and connect with me for collaboration or mentorship opportunities!
-
-
-
-<!--
-**Akhil-Krishna/Akhil-Krishna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
