@@ -94,14 +94,6 @@ I'm a **B.Tech in Computer Science and Engineering** graduate. I am an **AI&ML e
 
 ---
 
-## 💬 Ask Me About
-
-- **Machine Learning**: From basic concepts to implementing complex ML pipelines.
-- **Web Development**: Crafting full-stack applications with modern tools.
-- **Django**: Backend development and optimization techniques.
-
----
-
 ## 📫 How to Reach Me
 
 Feel free to drop me an email at [akhilmavannoor@gmail.com](mailto:akhilmavannoor@gmail.com) or connect via [LinkedIn](https://www.linkedin.com/in/akhil-krishna-686166229/).
